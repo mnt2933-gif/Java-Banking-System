@@ -10,7 +10,7 @@ A simple Java console application designed to perform basic banking operations, 
 - **Validation Controls**: Ensures no transactions can be made before an account is successfully created, preventing invalid inputs or negative values.
 
 ## What I Learned from This Project
-- The importance of using **Methods** (`void` and logic methods) for code organization and modularity[cite: 1].
-- Utilizing **`static` variables** so they can be easily accessed and shared across all methods within the class[cite: 1].
-- Using **`boolean` keys** (like `accountCreated`) as program control flags[cite: 1].
-- Understanding the practical differences and execution flow between **`do-while`** and **`while` loops**[cite: 1].
+- The importance of using **Methods** (`void` and logic methods) for code organization and modularity.
+- Utilizing **`static` variables** so they can be easily accessed and shared across all methods within the class.
+- Using **`boolean` keys** (like `accountCreated`) as program control flags.
+- Understanding the practical differences and execution flow between **`do-while`** and **`while` loops**
